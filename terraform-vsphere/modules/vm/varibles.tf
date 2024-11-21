@@ -7,7 +7,7 @@ variable "num_cpus" {
   default = 2
 }
 variable "memory" {
-  default = 4096
+  default = 2048
 }
 variable "domain" {
   default = "local"

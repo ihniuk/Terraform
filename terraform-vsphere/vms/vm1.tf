@@ -6,6 +6,6 @@ module "vm1" {
   template_name = var.windows_template
 
   vm_name       = "vm1"
-  ipv4_address  = "192.168.1.101"
+  ipv4_address  = "192.168.1.230"
   ipv4_gateway  = "192.168.1.1"
 }

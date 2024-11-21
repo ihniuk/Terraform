@@ -6,6 +6,6 @@ module "vm2" {
   template_name = var.linux_template
 
   vm_name       = "vm2"
-  ipv4_address  = "192.168.1.102"
+  ipv4_address  = "192.168.1.231"
   ipv4_gateway  = "192.168.1.1"
 }
